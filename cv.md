@@ -7,4 +7,13 @@
 
 ## Work experience
 
-Making and supporting sites in freelance mode
+Making and supporting sites in freelance mode from time to time
+
+## Skills
+
+- HTML, CSS
+- JavaScript
+- PHP
+- Bitrix
+
+## Education
