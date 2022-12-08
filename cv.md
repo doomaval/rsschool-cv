@@ -17,3 +17,5 @@ Making and supporting sites in freelance mode from time to time
 - Bitrix
 
 ## Education
+
+Stankin University
