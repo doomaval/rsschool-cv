@@ -14,7 +14,7 @@ Making and supporting sites in freelance mode from time to time
 - HTML, CSS
 - JavaScript
 - PHP
-- Bitrix
+- PHP frameworks (`Bitrix`, `Wordpress`)
 
 ## Education
 
