@@ -1,8 +1,8 @@
-header,
+/* header,
 main,
 footer {
   border: 1px solid #000000;
-}
+} */
 
 * {
   box-sizing: border-box;
@@ -12,7 +12,14 @@ footer {
 body {
   margin: 0;
 }
-.nav {
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+header,
+footer {
   background-color: #1fbbe6;
   padding: 10px;
 }
@@ -38,7 +45,7 @@ body {
 .profile {
   margin: 10px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .profile-info {
@@ -54,4 +61,12 @@ h1 {
 .profile-info p {
   font-size: 1.5em;
   letter-spacing: 0.1em;
+}
+
+footer .container {
+  background-color: #1fbbe6;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
