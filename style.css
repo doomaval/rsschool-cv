@@ -1,0 +1,22 @@
+header,
+main,
+footer {
+  border: 1px solid #000000;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.nav {
+  background-color: #1fbbe6;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style-type: none;
+}
+.nav-item {
+}
